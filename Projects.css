@@ -1,0 +1,15 @@
+#Header{
+    background-image: url('https://cdn.mos.cms.futurecdn.net/nxZKDWRv6UrVavkz37XHB3.jpg');
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+html{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+a{
+    color: crimson;
+}

@@ -1,0 +1,13 @@
+h1{
+    background-image: url('https://thumbs.dreamstime.com/z/cartoon-rocket-space-background-vector-illustration-simple-flying-spaceship-drawing-116779741.jpg');
+    height: 100px;
+}
+html{
+    text-align: center;
+    color: white;
+    background-image: url('https://static.turbosquid.com/Preview/2014/05/25__11_52_38/worm+hole+5.jpgf175b33d-47de-4dfd-9345-4b3da9424dc0Larger.jpg');
+    background-size:cover;
+}
+a{
+    color: aquamarine;
+}
